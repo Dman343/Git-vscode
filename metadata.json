@@ -1,0 +1,6 @@
+{
+  "name": "VSCode Config",
+  "description": "Interactive viewer and editor for the imported .vscode/settings.json (.NET Acquisition Extension) configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

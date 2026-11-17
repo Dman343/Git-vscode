@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VSCode Config</string>
+    <string name="workspace_title">.vscode/settings.json</string>
+    <string name="workspace_subtitle">Dman343/Git-vscode · .NET Acquisition Extension</string>
+    <string name="tab_controls">Settings</string>
+    <string name="tab_json">settings.json</string>
+    <string name="action_copy_json">Copy JSON</string>
+    <string name="action_reset_defaults">Reset Defaults</string>
+    <string name="action_edit_json">Edit JSON</string>
+    <string name="action_apply_json">Apply JSON</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="status_synced">Repo Defaults</string>
+    <string name="status_modified">Modified</string>
+    <string name="copied_snackbar">Copied settings.json to clipboard</string>
+    <string name="reset_snackbar">Restored imported .vscode/settings.json defaults</string>
+    <string name="applied_snackbar">Applied JSON changes</string>
+</resources>

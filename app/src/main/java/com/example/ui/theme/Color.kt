@@ -1,0 +1,31 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Precision Developer Slate Palette (Dark)
+val SlateBackgroundDark = Color(0xFF0B1220)
+val SlateSurfaceDark = Color(0xFF111B2E)
+val SlateSurfaceElevatedDark = Color(0xFF18253D)
+val SlateOutlineDark = Color(0xFF283854)
+val CyanPrimaryDark = Color(0xFF38BDF8)
+val CyanOnPrimaryDark = Color(0xFF041E2B)
+val CyanContainerDark = Color(0xFF0C364D)
+val EmeraldAccentDark = Color(0xFF34D399)
+val AmberAccentDark = Color(0xFFFBBF24)
+val RoseErrorDark = Color(0xFFF87171)
+val TextPrimaryDark = Color(0xFFF1F5F9)
+val TextSecondaryDark = Color(0xFF94A3B8)
+
+// Crisp Daylight Palette (Light)
+val SlateBackgroundLight = Color(0xFFF4F7FB)
+val SlateSurfaceLight = Color(0xFFFFFFFF)
+val SlateSurfaceElevatedLight = Color(0xFFEAF0F7)
+val SlateOutlineLight = Color(0xFFCBD5E1)
+val CyanPrimaryLight = Color(0xFF0284C7)
+val CyanOnPrimaryLight = Color(0xFFFFFFFF)
+val CyanContainerLight = Color(0xFFE0F2FE)
+val EmeraldAccentLight = Color(0xFF059669)
+val AmberAccentLight = Color(0xFFD97706)
+val RoseErrorLight = Color(0xFFDC2626)
+val TextPrimaryLight = Color(0xFF0F172A)
+val TextSecondaryLight = Color(0xFF475569)
